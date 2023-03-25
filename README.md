@@ -8,7 +8,7 @@ O jogo é baseado em chances. Em cada fase, o jogador recebe uma mensagem cripto
 
 ## Compilando o Projeto
 
-Para compilar o projeto, é necessário ter o ambiente configurado com as dependências necessárias. Na pasta do projeto, usando um ambiente linux, execute o comando `make all` para compilar os arquivos.
+Na pasta do projeto, usando um ambiente linux, execute o comando `make all` para compilar os arquivos.
 
 ## Desenvolvimento
 
